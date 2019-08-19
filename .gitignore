@@ -2,3 +2,4 @@
 *.log
 *.out
 *.gz
+sweave_document_fancy_header.tex
