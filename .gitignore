@@ -3,3 +3,5 @@
 *.out
 *.gz
 sweave_document_fancy_header.tex
+rmarkdown_report.md
+skeleton.bib
